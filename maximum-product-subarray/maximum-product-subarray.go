@@ -1,6 +1,6 @@
 package maximumproductsubarray
 
-import "alborithmutil/util"
+import "github.com/itsfinn/myleetcode/util"
 
 func MaxProductSubstring(a []float64) float64 {
 	maxEnd := a[0]
